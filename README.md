@@ -11,7 +11,7 @@
   <tr>
     <!-- Image Block arranged to fill beautifully -->
     <td width="30%" valign="middle" align="center" style="padding-right: 10px;">
-      <img src="rose" width="100%" height="100%" style="object-fit: cover; display: block; margin: auto;" alt="Profile Logic" />
+      <img src="rose" width="170%" height="170%" style="object-fit: cover; display: block; margin: auto;" alt="Profile Logic" />
     </td>
     <!-- Bio Text Block -->
     <td width="70%" valign="top" style="padding-left: 20px;">
