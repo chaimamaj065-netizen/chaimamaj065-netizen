@@ -19,12 +19,12 @@
     <td width="33.33%" style="background-color: #16161a; border: 1px solid #e8b4b833; border-radius: 8px; padding: 15px;">
       <img src="https://api.iconify.design/lucide:map-pin.svg?color=%23e8b4b8" width="24" height="24" alt="Location" /><br/><br/>
       <font color="#f5f5f5" face="Space Grotesk"><b>LOCATION</b></font><br/>
-      <font color="#d4a5a5" size="2" face="Inter">Sfax, Tunisia</font>
+      <font color="#d4a5a5" size="2" face="Inter">Sousse, Tunisia</font>
     </td>
     <td width="33.33%" style="background-color: #16161a; border: 1px solid #c9b1ff33; border-radius: 8px; padding: 15px;">
       <img src="https://api.iconify.design/lucide:target.svg?color=%23c9b1ff" width="24" height="24" alt="Focus" /><br/><br/>
       <font color="#f5f5f5" face="Space Grotesk"><b>CURRENT FOCUS</b></font><br/>
-      <font color="#d4a5a5" size="2" face="Inter">Business Intelligence, Full-Stack Web Development & Devops.</font>
+      <font color="#d4a5a5" size="2" face="Inter">Business Intelligence, Full-Stack Web Development & Data Analytics.</font>
     </td>
   </tr>
 </table>
@@ -114,10 +114,10 @@
 <font color="#d4a5a5" size="3" face="Space Grotesk">Let's build something extraordinary together.</font>
 <br/><br/>
 
-<a href="https://linkedin.com" target="_blank">
+<a href="www.linkedin.com/in/chaima-majdoub-lakhal-0004b4370" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-c9b1ff?style=for-the-badge&logo=linkedin&logoColor=0f0f12" alt="LinkedIn" />
 </a> &nbsp;
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:chaimamaj065@gmail.com">
   <img src="https://img.shields.io/badge/Email-e8b4b8?style=for-the-badge&logo=gmail&logoColor=0f0f12" alt="Email" />
 </a>
 
