@@ -13,7 +13,7 @@
     <!-- Image/Illustration Block -->
     <td width="30%" valign="top" align="left">
       <!-- 7ott link el image mta3 el brain local wala widget hna -->
-      <img src="rose" width="150" alt="Profile Logic" />
+      <img src="rose" width="100%" alt="Profile Logic" />
     </td>
     <!-- Bio Text Block -->
     <td width="70%" valign="top" style="padding-left: 20px;">
